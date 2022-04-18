@@ -14,7 +14,7 @@ importFrom(stats,
            resid,
            ts,
            as.ts,
-           update.
+           update,
            as.formula,
            cov2cor,
            nlminb,
