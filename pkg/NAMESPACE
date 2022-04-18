@@ -1,18 +1,69 @@
 ## Import packages
 import(methods)
-
+import(fastICA)
+import(fGarch)
 ## Import functions
-importFrom(stats, coef, formula, logLik, predict, residuals, resid, ts, as.ts, update)
-importFrom(graphics, plot)
-
+importFrom(graphics,
+           plot)
+importFrom(stats,
+           coef,
+           formula,
+           logLik,
+           predict,
+           residuals,
+           resid,
+           ts,
+           as.ts,
+           update.
+           as.formula,
+           cov2cor,
+           nlminb,
+           optim,
+           update.formula)
+importFrom(utils,
+           combn,
+           head)
 ## Classes       
-exportClasses(Goestml, Goestmm, Goestnls, GoGARCH, Goinit, Gopredict, Gosum, Orthom)
-
+exportClasses(Goestml,
+              Goestmm,
+              Goestnls,
+              GoGARCH,
+              Goinit,
+              Gopredict,
+              Gosum,
+              Orthom)
 ## Methods
-exportMethods(angles, cvar, ccor, ccov, coef, converged, formula, goest, logLik, M, plot, predict, show, summary, t, residuals, resid, update)
-
+exportMethods(angles,
+              cvar,
+              ccor,
+              ccov,
+              coef,
+              converged,
+              formula,
+              goest,
+              logLik,
+              M,
+              plot,
+              predict,
+              show,
+              summary,
+              t,
+              residuals,
+              resid,
+              update)
 ## Functions
-export(cora, gogarch, goinit, gollh, gonls, gotheta, Rd2, Umatch, UprodR, unvech, validOrthomObject, validGoinitObject)
+export(cora,
+       gogarch,
+       goinit,
+       gollh,
+       gonls,
+       gotheta,
+       Rd2,
+       Umatch,
+       UprodR,
+       unvech,
+       validOrthomObject,
+       validGoinitObject)
 
 
 
