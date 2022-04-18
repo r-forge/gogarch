@@ -37,7 +37,7 @@ Dow Jones Industrial Average and Nasdaq stock indices
 }
 
 \references{
-  \url{http://www.nasdaq.com}, \url{http://www.djindexes.com}
+  \url{http://www.nasdaq.com}
 }
 
 \seealso{
