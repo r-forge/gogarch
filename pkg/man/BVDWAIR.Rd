@@ -39,7 +39,7 @@
 }
 
 \source{
-  \url{http://finance.yahoo.com} and \url{http://www.econstats.com}  
+  \url{https://finance.yahoo.com/} and \url{http://www.econstats.com}  
 }
 
 \references{
