@@ -1,8 +1,9 @@
 Package: gogarch
-Version: 0.7-2
-Date: 2012-07-15
+Version: 0.7-3
+Date: 2022-04-15
 Type: Package
 Title: Generalized Orthogonal GARCH (GO-GARCH) models
+Description: The package provides an implementation of generalized orthogonal GARCH models. 
 Authors@R: person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre"))
 Depends: R (>= 2.10.0), methods, stats, graphics, fGarch, fastICA
 Description: Implementation of the GO-GARCH model class 
