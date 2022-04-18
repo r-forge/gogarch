@@ -3,7 +3,7 @@ Version: 0.7-3
 Date: 2022-04-15
 Type: Package
 Title: Generalized Orthogonal GARCH (GO-GARCH) Models
-Description: The package provides an implementation of generalized orthogonal GARCH models. 
+Description: The package provides an implementation of the generalized orthogonal GARCH model class. This is an alternative approach to CC-GARCH models in the context of multivariate volatility modeling.
 Authors@R: person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre"))
 Depends: R (>= 2.10.0), methods, stats, graphics, fGarch, fastICA
 Description: Implementation of the GO-GARCH model class 
