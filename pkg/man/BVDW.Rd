@@ -36,9 +36,6 @@ Dow Jones Industrial Average and Nasdaq stock indices
     2006-079/4}, University of Amsterdam and Tinbergen Institute.
 }
 
-\references{
-  \url{http://www.nasdaq.com}
-}
 
 \seealso{
   \code{\link{VDW}}

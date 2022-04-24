@@ -1,7 +1,5 @@
 ## Import packages
 import(methods)
-import(fastICA)
-import(fGarch)
 ## Import functions
 importFrom(graphics,
            plot)
