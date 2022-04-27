@@ -1,18 +1,13 @@
 ## Import packages
 import(methods)
+import(fastICA)
+import(fGarch)
 ## Import functions
-importFrom(graphics,
-           plot)
 importFrom(stats,
-           coef,
-           formula,
            logLik,
-           predict,
-           residuals,
            resid,
            ts,
            as.ts,
-           update,
            as.formula,
            cov2cor,
            nlminb,

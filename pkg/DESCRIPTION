@@ -1,6 +1,6 @@
 Package: gogarch
-Version: 0.7-4
-Date: 2022-04-24
+Version: 0.7-5
+Date: 2022-04-27
 Type: Package
 Title: Generalized Orthogonal GARCH (GO-GARCH) Models
 Description: Provision of classes and methods for estimating generalized
